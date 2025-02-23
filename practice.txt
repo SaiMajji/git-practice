@@ -1,2 +1,5 @@
 Hi This is Practice file data
 This is my First line of data
+ 
+HI Good Morning
+Welcome to all
